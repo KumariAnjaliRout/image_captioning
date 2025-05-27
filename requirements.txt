@@ -1,7 +1,7 @@
-streamlit
 torch
 torchvision
-transformers
 Pillow
 opencv-python-headless
-timm
+numpy
+streamlit
+transformers
